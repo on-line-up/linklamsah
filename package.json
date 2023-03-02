@@ -1,0 +1,19 @@
+{
+  "name": "brimo.",
+  "version": "1.0.0",
+  "description": "Digital Banhking BRI",
+  "main": "axios.min.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/in-update-id/BRImo..git"
+  },
+  "author": "BRImo BRI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/in-update-id/BRImo./issues"
+  },
+  "homepage": "https://github.com/in-update-id/BRImo.#readme"
+}
